@@ -1,8 +1,8 @@
-# Rails 5 deploy with ansible, capistrano, postgresql.
+# Rails 5 deploy with ansible, capistrano, postgresql (can be deployed to DO, but need little changes for VScale (got some know-hows after Tceh courses) & Asure.
 
 ### Step 1
 
-Setup SSH keys [(manual)](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2)
+Setup SSH keys [(DO manual)](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2)
 
 ### Step 2
 
